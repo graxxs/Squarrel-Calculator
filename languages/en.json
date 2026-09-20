@@ -1,0 +1,30 @@
+{
+  "title": "Squarrel - Root Calculator",
+  "subtitle": "Roots of any degree, real and complex numbers",
+  "number": "Number",
+  "degree": "Root degree",
+  "precision": "Decimal places",
+  "complex": "Show complex roots",
+  "analytical": "Show analytical form",
+  "calculate": "Calculate",
+  "result": "Result",
+  "numberPlaceholder": "For example: 16 or 3+4i",
+  "degreePlaceholder": "For example: 4",
+  "precisionPlaceholder": "For example: 3",
+  "support": "Support",
+  "errors": {
+    "number_required": "Enter a number.",
+    "degree_required": "Enter the root degree.",
+    "number_too_large": "The number is too large. Maximum 5000 characters.",
+    "degree_too_large": "The root degree is too large. Maximum 1000.",
+    "not_number": "The value you entered is not a number.",
+    "degree_integer": "The degree must be an integer.",
+    "degree_positive": "The root degree must be greater than zero.",
+    "precision_required": "The result is not an integer. Enter the number of decimal places below.",
+    "precision_integer": "The number of decimal places must be an integer.",
+    "precision_range": "The number of decimal places must be between 0 and 100.",
+    "even_negative": "A negative number with an even degree requires complex roots. Enable this option.",
+    "calculation_error": "The calculation could not be completed.",
+    "unsupported": "A real root cannot be obtained for these inputs."
+  }
+}

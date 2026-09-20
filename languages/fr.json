@@ -1,0 +1,30 @@
+{
+  "title": "Squarrel - Calculateur de racines",
+  "subtitle": "Racines de tout degré, nombres réels et complexes",
+  "number": "Nombre",
+  "degree": "Indice de la racine",
+  "precision": "Nombre de décimales",
+  "complex": "Afficher les racines complexes",
+  "analytical": "Afficher la forme analytique",
+  "calculate": "Calculer",
+  "result": "Résultat",
+  "numberPlaceholder": "Ex. : 16 ou 3+4i",
+  "degreePlaceholder": "Ex. : 4",
+  "precisionPlaceholder": "Ex. : 3",
+  "support": "Assistance",
+  "errors": {
+    "number_required": "Veuillez saisir un nombre.",
+    "degree_required": "Veuillez saisir l’indice de la racine.",
+    "number_too_large": "Le nombre est trop grand. Maximum : 5000 caractères.",
+    "degree_too_large": "L’indice est trop grand. Maximum : 1000.",
+    "not_number": "La valeur saisie n’est pas un nombre.",
+    "degree_integer": "L’indice doit être un entier.",
+    "degree_positive": "L’indice de la racine doit être supérieur à zéro.",
+    "precision_required": "Le résultat n’est pas un entier. Indiquez le nombre de décimales ci-dessous.",
+    "precision_integer": "Le nombre de décimales doit être un entier.",
+    "precision_range": "Le nombre de décimales doit être compris entre 0 et 100.",
+    "even_negative": "Un nombre négatif avec un indice pair nécessite les racines complexes. Activez cette option.",
+    "calculation_error": "Le calcul n’a pas pu être effectué.",
+    "unsupported": "Impossible d’obtenir une racine réelle avec ces valeurs."
+  }
+}
