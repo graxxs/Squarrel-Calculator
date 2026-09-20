@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Squarrel</title>
+    <link rel="stylesheet" href="/static/style.css?v=2">
+    <script src="/static/script.js?v=2" defer></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div>
+                <h1 id="titleText">Извлечение корня</h1>
+                <p id="subtitle">Корень любой степени, действительные и комплексные числа</p>
+            </div>
+            <select id="language" aria-label="Language"></select>
+        </header>
+
+        <a
+            href="https://github.com/graxxs/Squarrel/discussions/1"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="support-button"
+            id="supportButton"
+        >Поддержка</a>
+
+        <main class="card">
+            <label for="number" id="numberLabel">Число</label>
+            <input id="number" type="text" placeholder="Например: 16 или 3+4i">
+
+            <label for="degree" id="degreeLabel">Степень корня</label>
+            <input id="degree" type="number" min="1" step="1" placeholder="Например: 2">
+
+            <label for="precision" id="precisionLabel">Знаков после запятой</label>
+            <input
+                id="precision"
+                type="number"
+                min="0"
+                max="100"
+                step="1"
+                value="6"
+                placeholder="Например: 6"
+            >
+
+            <div class="options">
+                <label class="check">
+                    <input id="complexMode" type="checkbox" checked>
+                    <span id="complexLabel">Показывать комплексные корни</span>
+                </label>
+
+                <label class="check">
+                    <input id="analytical" type="checkbox">
+                    <span id="analyticalLabel">Показать аналитическую форму</span>
+                </label>
+            </div>
+
+            <button id="calculate" class="calculate">Вычислить</button>
+            <div id="message" class="message hidden"></div>
+
+            <section id="result" class="result hidden">
+                <h2 id="resultTitle">Результат</h2>
+                <div id="roots"></div>
+                <div id="analyticalResult" class="analytical"></div>
+            </section>
+        </main>
+
+        <footer id="footer">Язык можно менять без перезапуска программы.</footer>
+    </div>
+</body>
+</html>
