@@ -16,6 +16,8 @@
 
 [Служба поддержки](https://github.com/graxxs/Squarrel/discussions)
 
+Наше облако: https://cloud.mail.ru/public/Zvmc/YWGdEBqf1
+
 ---
 
 ## EN English
