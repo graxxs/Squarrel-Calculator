@@ -5,6 +5,10 @@
 
 [Сайт теперь на Versel](https://squarrel-calculator.vercel.app/)
 
+[New site](https://squarrel-calculator.vercel.app/)
+
+[Un site Web](https://squarrel-calculator.vercel.app/)
+
 Ссылка на GitHub осталась прежней.
 
 Приносим извинения за доставленные неудобства.
