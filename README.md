@@ -1,3 +1,12 @@
+## ОБНОВЛЕНИЕ ОТ 04.10.2026
+Сайт был развёрнут на Versal для дальнейшей работоспособности, ссылки были обновлены, но код остался прежним. Больше об изменениях на нашем [облаке](https://cloud.mail.ru/public/Zvmc/YWGdEBqf1)
+
+Новая ссылка на сайт:
+
+[Сайт](https://squarrel-calculator.vercel.app/)
+
+Ссылка на GitHub осталась прежней.
+
 # «Squarrel» Calculator
 
 ## RU Русский
@@ -10,13 +19,11 @@
 
 ### Запуск:
 
-[Сайт](https://sqrt-project.relaxdev.ru)
+НЕАКТУАЛЬНО [Сайт](https://squarrel-calculator.vercel.app/)
 
-[Страница на RelaxDev](https://relaxdev.ru/projects/sqrt-project)
+НЕАКТУЛЬНО [Страница на RelaxDev](https://relaxdev.ru/projects/sqrt-project)
 
 [Служба поддержки](https://github.com/graxxs/Squarrel/discussions)
-
-Наше облако: https://cloud.mail.ru/public/Zvmc/YWGdEBqf1
 
 ---
 
@@ -30,9 +37,9 @@ The server uses Python and Flask; the client uses HTML, CSS (Bootstrap), and som
 
 ### Launch:
 
-[Website](https://sqrt-project.relaxdev.ru)
+NOT RELEVANT [Website](https://sqrt-project.relaxdev.ru)
 
-[RelaxDev page](https://relaxdev.ru/projects/sqrt-project)
+NOT RELEVANT [RelaxDev page](https://relaxdev.ru/projects/sqrt-project)
 
 [Support](https://github.com/graxxs/Squarrel/discussions)
 
@@ -49,8 +56,8 @@ Côté serveur: Python et Flask; côté client: HTML, CSS (Bootstrap) et un peu 
 
 ### Accès:
 
-[Site web](https://sqrt-project.relaxdev.ru)
+Sans objet [Site web](https://sqrt-project.relaxdev.ru)
 
-[Page sur RelaxDev](https://relaxdev.ru/projects/sqrt-project)
+Sans objet [Page sur RelaxDev](https://relaxdev.ru/projects/sqrt-project)
 
 [Support](https://github.com/graxxs/Squarrel/discussions)
