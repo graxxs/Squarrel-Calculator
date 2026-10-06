@@ -1,9 +1,9 @@
 ## ОБНОВЛЕНИЕ ОТ 04.10.2026
-Сайт был развёрнут на Versel для дальнейшей работоспособности, ссылки были обновлены, но код остался прежним. Больше об изменениях на нашем [облаке](https://cloud.mail.ru/public/Zvmc/YWGdEBqf1).
+Сайт был развёрнут на Vercel для дальнейшей работоспособности, ссылки были обновлены, но код остался прежним. Больше об изменениях на нашем [облаке](https://cloud.mail.ru/public/Zvmc/YWGdEBqf1).
 
 Новая ссылка на сайт:
 
-[Сайт теперь на Versel](https://squarrel-calculator.vercel.app/)
+[Сайт теперь на Vercel](https://squarrel-calculator.vercel.app/)
 
 [New site](https://squarrel-calculator.vercel.app/)
 
